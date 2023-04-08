@@ -16,7 +16,7 @@
 </div>
 
 ## Instructions
-1. [Download](https://github.com/unofficialdxnny/Valorant-Trigger-Bot) the Repository `Valorant-Trigger-Bot`
+1. [Download](https://github.com/unofficialdxnny/Valorant-Trigger-Bot/releases/tag/1.0.0) the `.exe` `Valorant-Trigger-Bot`
 2. Run the executable or `.ahk` file.
 3. Hold <kbd>mb4</kbd> to activate trigger bot. You can change this keybind in the app.
 4. Play in **Windowed Fullscreen**.
