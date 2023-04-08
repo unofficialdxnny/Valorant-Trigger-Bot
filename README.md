@@ -23,3 +23,16 @@
 5. Note than this will work most times but maybe its incorrect sometimes as it is colour based.
 
 
+## Usage
+
+- Play in windowed fullscreen
+- Use Yellow Triponia
+- Install The `.exe`
+- Launch it (dont press <kbd>F9</kbd> just yet)
+- Launch Valorant
+- Once in the Main Menu press <kbd>F9</kbd>
+- When in the match just hold mouse button 4
+
+## Video Tutorial
+
+ (soon)
