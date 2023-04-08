@@ -3,14 +3,14 @@
 <div align=center>
 
   ```
-  🚫undetected as of 08/04/2023
+  ✅ undetected as of 08/04/2023
   ```
   
   <img src="https://static.vecteezy.com/system/resources/previews/019/763/186/original/valorant-logo-transparent-free-png.png" width=100>
   
   # VALORANT TRIGGER BOT
   ```
-  💎 VALORANT triggerbot built in AHK)
+  🎯 VALORANT triggerbot built in AHK
   ```
   
 </div>
