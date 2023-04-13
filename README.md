@@ -33,6 +33,3 @@
 - Once in the Main Menu press <kbd>F9</kbd>
 - When in the match just hold mouse button 4
 
-## Video Tutorial
-
- (soon)
